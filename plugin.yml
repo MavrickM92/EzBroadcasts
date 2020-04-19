@@ -1,0 +1,10 @@
+main: me.mavrickm.ezbroadcasts.Main
+name: EzBroadcasts
+version: 1.0
+author: MavrickM
+description: A plugin for broadcasting messages
+commands:
+  broadcast:
+    aliases: [bc]
+    description: Broadcast a message.
+    usage: /broadcast <message>
